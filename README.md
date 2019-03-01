@@ -7,3 +7,6 @@ second edit
 
 third edit
 
+
+
+This is the conflict line
